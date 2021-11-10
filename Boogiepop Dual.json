@@ -1,0 +1,110 @@
+ "title":"Boogiepop and Others",
+   "description":"When a female student is abducted and on the verge of being raped, Boogiepop rushes onto the scene just in time to save the day. But Boogiepop's new male alter-ego, Akimizuki Takaya, finds himself in the middle of a crime wave with ties going back to the previous owner of the Boogiepop mantle.",
+   "artist":"Takano Masayuki",
+   "author":"Kadono Kouhei",
+   "cover":"https://i.imgur.com/mK9dyRb.jpg",
+   "chapters":{
+      "1":{
+         "title":"The Beat Restored",
+         "volume":"1",
+         "groups":{
+            "Tokumei":"/proxy/api/imgur/chapter/sqPooNV/"
+         },
+         "last_updated":"1635702509"
+      },
+      "2":{
+         "title":"Resignation Blues",
+         "volume":"1",
+         "groups":{
+            "Tokumei":"/proxy/api/imgur/chapter/7C273vV/"
+         },
+         "last_updated":"1635702509"
+      },
+          "3": {
+      "title": "Embracement Blues",
+      "volume": "1",
+      "groups": {
+        "Tokumei": "/proxy/api/imgur/chapter/YftkqKQ/"
+      },
+      "last_updated": "1635702509"
+    },
+
+ "4": {
+      "title": "Forgotten Requiem",
+      "volume": "1",
+      "groups": {
+        "Tokumei": "/proxy/api/imgur/chapter/BF37OjX/"
+      },
+      "last_updated": "1635702509"
+    },
+
+ "5": {
+      "title": "Phantasmal Bubble Requiem",
+      "volume": "1",
+      "groups": {
+        "Tokumei": "/proxy/api/imgur/chapter/knNS4gL/"
+      },
+      "last_updated": "1635702509"
+    },
+
+ "6": {
+      "title": "The Coward's Game",
+      "volume": "1",
+      "groups": {
+        "Tokumei": "/proxy/api/imgur/chapter/XHsZGRK/"
+      },
+      "last_updated": "1635702509"
+    },
+
+ "7": {
+      "title": "Fool's Game",
+      "volume": "2",
+      "groups": {
+        "Tokumei": "/proxy/api/imgur/chapter/9yaOD8k/"
+      },
+      "last_updated": "1635702509"
+    },
+
+ "8": {
+      "title": "Refrain of Despair",
+      "volume": "2",
+      "groups": {
+        "Tokumei": "/proxy/api/imgur/chapter/r7wbje7/"
+      },
+      "last_updated": "1635702509"
+    },
+      "9":{
+         "title":"Beat of Destruction",
+         "volume":"2",
+         "groups":{
+            "Tokumei":"/proxy/api/imgur/chapter/NW1ZHrh/"
+         },
+         "last_updated":"1635702509"
+      },
+"10":{
+         "title":"Memories' Heart",
+         "volume":"2",
+         "groups":{
+            "Tokumei":"/proxy/api/imgur/chapter/lJjvaA7/"
+         },
+         "last_updated":"1635702509"
+      },
+"11":{
+         "title":"Loser's Heart",
+         "volume":"2",
+         "groups":{
+            "Tokumei":"/proxy/api/imgur/chapter/fRYXigF/"
+         },
+         "last_updated":"1635702509"
+      },
+      "12":{
+         "title":"Last Chapter",
+         "volume":"2",
+         "groups":{
+            "Tokumei":"/proxy/api/imgur/chapter/J1aIC0f/"
+         },
+         "last_updated":"1635702509"
+      }
+  }
+}
+
